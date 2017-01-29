@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">schedular</string>
+    <string name="foreground_service_started">My Forground Service Started</string>
+</resources>
